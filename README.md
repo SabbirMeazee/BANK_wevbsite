@@ -1,2 +1,3 @@
 ###Live_Link https://sabbirmeazee.github.io/BANK_wevbsite/
-##userEmail == 'sabbir@gmail.com' && userPassword == '123456'
+
+Login-Email: sabbir@gmail.com && rPassword=123456
